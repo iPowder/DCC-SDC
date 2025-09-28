@@ -7,13 +7,16 @@ The software includes example datasets (located in the `Example` folder). Below 
 
 1. **Add a Standard Sample**  
    Click the **“Add Standard Sample”** button to load a calibration standard.
+<img width="1659" height="1021" alt="step_1" src="https://github.com/user-attachments/assets/25ad7121-3184-4ea4-aeef-9064057ef627" />
 
 2. **Perform Geometric Calibration**  
    Select the standard material (currently supported: CeO₂, Si, LaB₆), input the X-ray wavelength and pixel size, then click **“Calibration”**.  
    The software will automatically complete calibration within a few seconds. A **blue calibration ring** appearing on the right side of the image indicates successful calibration.
+<img width="1659" height="1021" alt="step_2" src="https://github.com/user-attachments/assets/1740ef78-63a6-4ef2-805d-1be954b3a30e" />
 
 3. **Load Experimental Samples**  
    Click **“Add Sample”** to import sample data (e.g., `S1` through `S6` from the example dataset). Click any file in the sample list to preview its corresponding Debye ring image.
+<img width="1659" height="1021" alt="step_3" src="https://github.com/user-attachments/assets/2911c3bc-6f5b-40b9-a8df-45a7e1ba90bc" />
 
 4. **Select Diffraction Rings for Analysis**  
    Click the **“Select Ring”** button to enter ring selection mode. Simply click on a Debye ring in the image—the software will automatically detect and highlight it.  
