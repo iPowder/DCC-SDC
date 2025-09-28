@@ -21,6 +21,10 @@ The software includes example datasets (located in the `Example` folder). Below 
 4. **Select Diffraction Rings for Analysis**  
    Click the **“Select Ring”** button to enter ring selection mode. Simply click on a Debye ring in the image—the software will automatically detect and highlight it.  
    To reorder the analysis sequence, **drag and drop items** in the file list.
+<img width="1659" height="1021" alt="step_4" src="https://github.com/user-attachments/assets/65cfc358-1a28-4865-b4fb-4c0a5ab1ffce" />
 
 5. **Calculate Strain**  
    Click **“Calculate Strain”** and wait briefly to obtain the final strain analysis results.
+<img width="1659" height="1021" alt="image" src="https://github.com/user-attachments/assets/d1b69e75-2fee-4049-9f3e-95e751a98ef7" />
+<img width="1305" height="533" alt="image" src="https://github.com/user-attachments/assets/32d4330b-5d97-4b1e-abaa-31d0cfc48f84" />
+
